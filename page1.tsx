@@ -37,7 +37,7 @@ export default function Home() {
         transition={{ delay: 0.2, duration: 0.5 }}
         className="text-4xl md:text-5xl font-bold mb-2 text-center"
       >
-        Hi, I'm <span className="text-pink-400">Septia</span> 👋
+       Hi, I&apos;m <span className="text-pink-400">Septia</span> 👋
       </motion.h1>
       <motion.p
         initial={{ opacity: 0 }}
