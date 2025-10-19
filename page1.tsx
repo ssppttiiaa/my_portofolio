@@ -89,7 +89,7 @@ export default function Home() {
       >
         <h2 className="text-2xl font-semibold mb-3">Contact</h2>
         <p className="text-gray-400 mb-4">
-          Let’s build something amazing together!
+          Let&apos;s build something amazing together!
         </p>
         <a
           href="mailto:example@email.com"
