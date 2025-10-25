@@ -11,10 +11,12 @@ import {
   SiTailwindcss,
 } from "react-icons/si";
 import { motion } from "framer-motion";
+import Navbar from "./components/Navbar";
 
 export default function Home() {
   return (
     <main className="min-h-screen bg-gradient-to-b from-gray-900 via-black to-gray-900 text-white flex flex-col items-center justify-center px-6 py-12">
+      <Navbar />
       
       {/* FOTO */}
       <motion.div
